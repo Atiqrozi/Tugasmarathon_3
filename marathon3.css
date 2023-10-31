@@ -1,0 +1,52 @@
+header {
+  text-align: center;
+  background-color: #00c8ea;
+  color: white;
+  font-family: sans-serif;
+}
+nav {
+  background-color: #ff7300;
+  height: 20px;
+  top: 0;
+  margin-top: -16px;
+}
+
+article img {
+  width: 600px;
+  height: auto;
+}
+
+article p {
+  width: 550px;
+}
+
+#kegiatan {
+  height: 100vh;
+  width: 600px;
+}
+
+#kegiatan img {
+  height: 250px;
+}
+
+.profil {
+  height: 100vh;
+  vertical-align: middle;
+}
+
+aside img {
+  width: 200px;
+  height: auto;
+}
+
+aside {
+  float: right;
+  box-shadow: inset;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  background-color: black;
+}
